@@ -5,13 +5,13 @@
 - The validation.py script iterates through each file inside the 'Files' folder for detecting the properly encoding.
 
 Expected Output:
-> Filename: file_guide.csv | Encoding:utf-8 | Confidence: 0.7525 | \n
-Filename: yan.txt | Encoding:Big5 | Confidence: 0.99 | \n
-Filename: die.txt | Encoding:utf-8 | Confidence: 0.99 | \n
-Filename: olaf.txt | Encoding:windows-1251 | Confidence: 0.99 | \n
-Filename: portugal.txt | Encoding:ISO-8859-1 | Confidence: 0.73 | \n
-Filename: shisei.txt | Encoding:UTF-8-SIG | Confidence: 1.0 | \n
-Filename: harpers.txt | Encoding:ascii | Confidence: 1.0 | \n
+> Filename: file_guide.csv | Encoding:utf-8 | Confidence: 0.7525 | 
+Filename: yan.txt | Encoding:Big5 | Confidence: 0.99 | 
+Filename: die.txt | Encoding:utf-8 | Confidence: 0.99 | 
+Filename: olaf.txt | Encoding:windows-1251 | Confidence: 0.99 | 
+Filename: portugal.txt | Encoding:ISO-8859-1 | Confidence: 0.73 | 
+Filename: shisei.txt | Encoding:UTF-8-SIG | Confidence: 1.0 | 
+Filename: harpers.txt | Encoding:ascii | Confidence: 1.0 | 
 
 - The file_guide.csv contains info about the .txt files summarised.
 - The requirements.txt is used for importing libraries used in this project.

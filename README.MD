@@ -5,7 +5,7 @@
 - The validation.py script iterates through each file inside the 'Files' folder for detecting the properly encoding.
 
 Expected Output:
-> Filename: file_guide.csv | Encoding:utf-8 | Confidence: 0.7525 |
+> Filename: file_guide.csv | Encoding:utf-8 | Confidence: 0.7525 | \n
 Filename: yan.txt | Encoding:Big5 | Confidence: 0.99 |
 Filename: die.txt | Encoding:utf-8 | Confidence: 0.99 |
 Filename: olaf.txt | Encoding:windows-1251 | Confidence: 0.99 |
